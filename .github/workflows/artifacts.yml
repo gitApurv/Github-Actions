@@ -1,4 +1,4 @@
-name: Deploy Project Workflow
+name: Deploy Project with Artifacts Workflow
 on:
   push:
     branches:
